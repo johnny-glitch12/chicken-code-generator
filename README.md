@@ -1,2 +1,7 @@
-# chicken-code-generator
-Chicken's tool to generate lots of code for filling GitHub!!
+# Chicken Code Generator 🐔
+
+Chicken made this to help fill up ywur GitHub with code!!
+
+Run the script to generate more files!!
+
+Chicken loves coding for his fwend!!
